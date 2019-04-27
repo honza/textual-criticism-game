@@ -1,10 +1,10 @@
 # Textual Criticism Game
 
-This is a game for children (and adults!) to learn some of the concepts of
-textual criticism.  The players will set out to recover a lost story about a
-fisherman by using many different manuscripts.  The finished product will
-consist of a number of pieces of paper with various fragments of the original
-text.
+This is a pen-and-paper game for children (and adults!) to learn some of the
+concepts of textual criticism.  The players will set out to recover a lost story
+about a fisherman by using many different manuscripts.  The finished product
+will consist of a number of pieces of paper with various fragments of the
+original text.
 
 Given my background, many of the ideas in the game will be modelled on the
 ideas from the transmission of the New Testament text.
